@@ -16,3 +16,5 @@ steps:
         'push',
         'us-east1-docker.pkg.dev/poetic-brace-430620-b4/store-registry/auth-ms',
       ]
+options:
+  logging: CLOUD_LOGGING_ONLY
